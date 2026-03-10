@@ -6,6 +6,7 @@ After cloning:
 * in PANTRY-INVENTORY-FCSCRATCH - npm run dev
     *this should start both server and client side dev environments
 
+    
     Further in the client side, run "npm install react-hook-form" to install the dependency to allow the useForm hook to run on the page client/src/components/createcontaier/CreatePantryItemForm
 
     This project uses MongoDB and will require the user to import their MongoUrl into their .env file. 
